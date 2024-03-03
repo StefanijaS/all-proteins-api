@@ -1,0 +1,180 @@
+{
+    "proteins": [
+        {
+            "name": "Nitro MuscleTech NitroTech Pure Whey Protein",
+            "description": "Best Overall",
+            "price": "88",
+            "image": "https://www.verywellfit.com/thmb/caZa2lnqfXAT67kzEMY8sDZBcjQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/814bU4VL6NL._SL1500_-5a85af763de4230037e0fb97.jpg",
+            "text": [
+                "For athletes looking to gain more muscle, more strength, and better performance, MuscleTech’s NitroTech Pure Whey Protein is your golden ticket. This formula is loved by bodybuilders and was created by researchers who wanted to develop a product that ensures superior muscle gain and more strength-boosting benefits than regular whey protein.",
+                "This protein powder contains 30 grams of protein per serving, mostly from whey protein isolate and whey peptides, 5g of glutamine and precursor, 6.8g of BCAA aminos, and a clinically studied 3-gram dose of HPLC-tested creatine monohydrate in each serving.",
+                "Furthermore, the cold-filtered, multi-phase filtration reduces fat, lactose and impurities without the use of heat, harsh acids or salt."
+            ]
+        },
+        {
+            "name": "Platinium Hydro Whey",
+            "description": "Best Low-Calorie",
+            "price": "68",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Ziiw1jdGL._SX522_.jpg",
+            "text": [
+                "This is the protein powder for anyone who wants an extremely clean protein. Legion's protein powder will also supplement your workout performance and help you get lean. It’s low-carb, low-calorie, sugar-free, non-GMO, lactose-free, and gluten-free, so you’ll get the benefits of adding muscle tone minus too many additives.",
+                "Platinium hydro whey is naturally sweetened and flavored with whey isolate. The lactose-free powdered milk comes from high-quality milk from small dairy farms in Ireland. It’s also high in the amino acid leucine, which plays a key role in initiating protein synthesis.",
+                "You’ll get 25 grams of protein, zero sugar, zero fat, 100 calories and 3 grams of carbs."
+            ]
+        },
+        {
+            "name": "Naked Nutrition Pea Protein Isolate Whey",
+            "description": "Best Wegan",
+            "price": "77",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51mxh2ngfxL.jpg",
+            "text": [
+                "For vegans and anyone who prefers a minimalist approach to ingredients, Naked Nutrition is for you. The brand’s pea protein isolate features just one ingredient: 100% yellow-pea protein. There are zero additives, so you won’t have to worry about sneaky artificial sweeteners, flavors, or colors. It’s also GMO-free, soy-free, and gluten-free.",
+                "The dairy-free protein powder is made from raw yellow peas that are grown on farms based in the United States and Canada. Per serving, you’ll get 27 grams of protein and 5.7 grams of branched-chain amino acids (BCAAs) for muscle growth. At the same time, this vegan protein powder contains only 120 calories, 2 grams of carbs and 2 grams of sugar per serving."
+            ]
+        },
+        {
+            "name": "Optimum Nutrition Serious Mass",
+            "description": "Best for Muscle Gain:",
+            "price": "85",
+            "image": "https://www.verywellfit.com/thmb/CRSWadW4nd1sEG3u93VTKBa30a4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/818TiVpkxML._SL1500_-5b159a95312834003632aa7c.jpg",
+            "text": [
+                "Looking to add healthy muscle mass to your frame? Optimum Nutrition’s Serious Mass is a great supplement option, offering 50 grams of protein per serving, over 250 grams of carbohydrates per serving, 25 vitamins and minerals, as well as creatine and glutamine. You’ll get the energy boost you need to build muscle quickly, so you can get to your goal weight quicker.",
+                "And while you’ll get 1,250 calories per serving mixed with water and 1,640 calories when blended into low-fat milk, there is less than 5 grams of fat per serving and no added sugar, making it an ideal healthy weight- and muscle-gain formula."
+            ]
+        },
+        {
+            "name": "Nuzest Clean Lean Protein",
+            "description": "Best for Over 50",
+            "price": "70",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51eEUeb8aSL.jpg",
+            "text": [
+                "Age-related muscle loss is most common in those over age 55, so it's important to take measures to prevent this as soon as possible. Supplementation, along with eating a balanced diet and exercising regularly will help you to avoid muscle loss as you get older.",
+                "Nutiva’s Nuzest Clean  is a great supplement option, as it provides 11 grams of raw organic hemp protein per serving, along with 12 grams of fiber. The hemp provides all nine essential amino acids and essential fatty acids and is a great option for anyone with food allergies. It's also ideal for anyone looking to steer clear of dairy.",
+                "The addition of fiber helps fight heart disease by lowering cholesterol levels. Nuzest Clean  is also great for lowering the risk of certain types of cancers and preventing constipation."
+            ]
+        },
+        {
+            "name": "Optimum Nutrition Gold Standard Whey",
+            "description": "Best Whey",
+            "price": "84",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41eTupktXiL.jpg",
+            "text": [
+                "Optimum Nutrition Gold Standard is known for offering solely whey protein isolates, which are thought to be the purest form of whey protein. Per serving, you can expect 24 grams of 100 percent whey protein that is hydrolyzed, meaning it is already broken down into smaller pieces called peptides. This makes for faster digestion.",
+                "The powder also has 5.5 grams of BCAAs, 4 grams of glutamine and precursors for optimum muscle repair and growth, and just 120 calories, 1 gram of fat and 3 grams of carbohydrates."
+            ]
+        },
+        {
+            "name": "Antler Farms 100% Grass Fed New Zealand Whey Protein",
+            "description": "Best Natural",
+            "price": "60",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81sOmqXJv9L._SX522_.jpg",
+            "text": [
+                "If you want a protein powder with a simple and short ingredients list, this 100% natural whey protein powder from Antler Farms is a great option. It features a blend of whey protein isolate from grass-fed cows, plus it's free of GMOs, antibiotics, hormones, fillers, preservatives, dyes, soy, gluten, artificial sweeteners and other questionable ingredients. This mixture also uses organic vanilla and organic stevia leaf extract so you get a fresh vanilla flavor that doesn't taste artificial.",
+                "The use of cold processing preserves the biological nature of protein and removes lactose and fat, giving you more protein per serving than other options on the market (26 grams of protein to be precise). "
+            ]
+        },
+        {
+            "name": "JYM Supplement Science",
+            "description": "Pro JYM",
+            "price": "45",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41QDjuFiXCL.jpg",
+            "text": [
+                "Age-related muscle loss is most common in those over age 55, so it's important to take measures to prevent this as soon as possible. Supplementation, along with eating a balanced diet and exercising regularly will help you to avoid muscle loss as you get older.",
+                "Nutiva’s Hi-Fiber Hemp Protein is a great supplement option, as it provides 11 grams of raw organic hemp protein per serving, along with 12 grams of fiber. The hemp provides all nine essential amino acids and essential fatty acids and is a great option for anyone with food allergies. It's also ideal for anyone looking to steer clear of dairy.",
+                "The addition of fiber helps fight heart disease by lowering cholesterol levels. Fiber is also great for lowering the risk of certain types of cancers and preventing constipation."
+            ]
+        },
+        {
+            "name": "Platnium Pre",
+            "description": "Pre Workout Energy & Focus",
+            "price": "30",
+            "image": "https://consumster.com/wp-content/uploads/2014/12/platinum-pre-review.jpg",
+            "text": [
+                "Pre-workout supplementation isn't new. What's exciting about new PLATINUM PRE- is ON's commitment to using ingredients in amounts that are clearly listed on the Facts Panel for all to see. There's no marketing hype in this product. This pre-workout formula is 100% business, just like you've come to expect from ON",
+                "Of course, you also expect ON to provide more, and this Platinum-level pre-workout powder is no exception. In addition to intense energy and focus, the formula supports training performance with beta-alanine and citrulline. A novel fruit extract and a unique PhytoBlend complete the package. Those who demand more depend on Optimum Nutrition."
+            ]
+        },
+        {
+            "name": "Pro Gainer",
+            "description": "HIGH-PROTEIN GAINER",
+            "price": "50",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81IXWLWIIaL._SX355_.jpg",
+            "text": [
+                "Putting on size requires a balance of heavy training and quality nutrition. Because everyone's a little different, some have a harder time packing on muscle than others. PRO Gainer™ is a high-protein formula delivering calories that count during recovery. Each shake provides ample supplemental protein, carbs, vitamins and minerals to build on the amount you're getting through a balanced diet of food. Use PRO Gainer™ as your post-workout recovery shake and/or high-protein meal between meals."
+            ]
+        },
+        {
+            "name": "Gold Standard Gainer",
+            "description": "Protein And Carb Recovery Formula",
+            "price": "58",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/613wd4FiZTL._SY355_.jpg",
+            "text": [
+                "Gold Standard Gainer is built on a foundation of complete dairy proteins, mostly from isolate sources. The carbohydrate blend includes oat, pea and potato and the fats include medium chain triglycerides, chia and flax. Obviously, this is not your typical gainer formula. ON took it a step further by making it easy to mix up in a shaker cup. No blender needed. This is the new Gold Standard for weight gain."
+            ]
+        },
+        {
+            "name": "Whey Protein Isolate - Unflavored",
+            "description": "Superior Nutrition for Healthy Lifestyles",
+            "price": "45",
+            "image": "https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A2LTTSYVCY4BN8/6c320a58-71f0-4a17-849b-9b3bff5cff04._CR0,0,1200,1200_PT0_SX300__.png",
+            "text": [
+                "Whey Isolates are 90-98% pure protein that digests and absorbs rapidly and is, gram for gram, one of the highest quality forms of protein available. This level of purity is achieved through a cold, cross micro and ultrafiltration process that removes the larger, less absorbable protein molecules while also filtering out fat, lactose, and ash",
+                "Studies suggest that whey isolates can quickly increase amino acid levels in systemic circulation and stimulate robust increases in protein synthesis; arguably the most important physiological factor in existence when it comes to muscle growth, strength, and recovery."
+            ]
+        },
+        {
+            "name": "Dr. Sinatra’s Grass Fed Protein",
+            "description": "Hormone-Free Protein",
+            "price": "34",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/611K-pYmMLL._SX522_.jpg",
+            "text": [
+                "Sourced from 100% New Zealand grass-fed, non-GMO, hormone-free dairy cows, new Grass Fed Protein Plus protein powder with digestive enzymes goes BEYOND ordinary protein by providing an easy-to-digest blend of 15 grams of whey and casein for a long-lasting source of protein. PLUS, 6 grams of non-GMO fiber, and 5 grams of Medium Chain Triglycerides (MCTs)—metabolizing dietary healthy fats—as well as a digestive enzyme complex to help you easily digest the protein."
+            ]
+        },
+        {
+            "name": "Sports Whey Protein Isolate Vanilla",
+            "description": "Highest Biological Value",
+            "price": "53",
+            "image": "https://static.labdoor.com/images/product/400/now-foods-whey-protein-isolate-pure-49-a.jpg",
+            "text": [
+                "CREAMY VANILLA FLAVORED PROTEIN POWDER WITH BCAAs: NOW Whey Protein Isolate is ideal for active individuals. Whey protein is considered to have the highest biological value (BV) of any protein source - superior in essential amino acid content to beef, milk, casein, or soy. 25 g of protein per serving. (Quality GMP Assured, Kosher with Dairy, No Artificial Sweeteners, Keto Friendly, Non-GMO, Steroid Free, Soy Free)"
+            ]
+        },
+        {
+            "name": "Whey Protein Isolate",
+            "description": "Diet Supplement",
+            "price": "32",
+            "image": "https://static.labdoor.com/images/certification/product/lot/400/b2ebfbd3-2b61-4290-8979-493754cfebf8.jpg",
+            "text": [
+                "Unlike other whey proteins, integrated supplements 100% natural CFM whey protein isolate is expertly formulated using only the highest quality ceramic filtered whey protein isolate. Absolutely no inferior whey concentrates, ion exchange isolates, or resin-filtered isolates are used. Make no mistake about it. All whey proteins are not created equal. Only the CFM processing technique maintains all of the delicate protein microfractions in whey, while ridding the product of undesirable fat, lactose, denatured (non-functional) proteins and cholesterol."
+            ]
+        },
+        {
+            "name": "Do Vitamins PerfectPea",
+            "description": "Organic Pea Protein Powder",
+            "price": "29",
+            "image": "https://static.labdoor.com/images/certification/product/lot/400/dce389e7-3784-4c05-b22b-4fec3ae97089.jpg",
+            "text": [
+                "PerfectPea is an organic pea protein that tastes great and is good for you! PerfectPea has a neutral taste and mixes well in smoothies. Give yourself the vegan protein you need with PerfectPea Organic Pea Protein!Eating pea protein is a natural way to help promote overall heart health. On top of supporting a healthy heart, pea protein has also been shown to promote healthy blood sugar levels and can help support lean muscle mass. Start working towards a healthier you with PerfectPea Organic Pea Protein Powder."
+            ]
+        },
+        {
+            "name": "TRIPACT Protein",
+            "description": "Vanilla Latte with Cinnamon",
+            "price": "38",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71az9IqgKOL._SX522_.jpg",
+            "text": [
+                "Tripact Protein is a superior protein blend enhanced with 5.4G BCAA and 4.8G GLUTAMINE per scoop. Each serving provides 25 grams of high quality protein from Non-GMO grass fed whey protein concentrate and isolate, our custom , 1 billion probiotics and digestive enzymes. Tripact protein is great tasting, gluten free and contains only 130 calories per serving with zero sugar. Great for CUTTING, TONING or BUILDING and versatile enough to use as a meal replacement, post-workout or before bed as a night time protein."
+            ]
+        },
+        {
+            "name": "Premium Io Whey Protein",
+            "description": "Reduced Stomach Discomfort",
+            "price": "29",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Ty7IdbQcL._SX522_.jpg",
+            "text": [
+                " Premium Io Whey Protein has always come with the stigma of poor digestibility. With ioProtein, consumers experienced 46% improvement in stomach issues post-consumption vs. Standard WPI.^ PERFORMIX ioWHEY PROTEIN makes the concept of protein bloating a thing of the past.You've been led to believe that when it comes to better bioavailability and taste, you can't have your cake and eat it too. With ioProtein, PERFORMIX provides supeior bioavailability and unrivaled taste, meaning you will no longer have to sacrifice taste for efficacy."
+            ]
+        }
+    ]
+}
